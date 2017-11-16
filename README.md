@@ -5,3 +5,5 @@ create branch dev2.
 2222222222222
 1111111111111 _& 33333
 444  original author update content
+444  third user  update content
+ok  above content is remote merge  collaborate
