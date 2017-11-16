@@ -1,4 +1,4 @@
 # gitskills
 # haha insert success
 Creating a new branch is quick.
-create branch dev1.
+create branch dev2.
